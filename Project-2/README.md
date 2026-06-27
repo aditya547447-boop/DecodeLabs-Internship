@@ -16,4 +16,5 @@ Launch an Amazon EC2 instance and configure the Nginx web server.
 5. Verified the default Nginx web page using the EC2 Public IP.
 
 ## Output
-See the attached screenshot: project 2 outcome.jpg
+- ec2-nginx-output.jpg
+- project-2-outcome.jpg
