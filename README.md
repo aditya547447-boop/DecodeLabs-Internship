@@ -1,5 +1,7 @@
 # DecodeLabs Internship
 
+This repository contains all the projects completed during my Decode Labs Cloud Computing Internship.
+
 ## Project 1 - Static Website Hosting on Amazon S3
 
 - Hosted a static portfolio website using Amazon S3.
@@ -18,3 +20,21 @@
 - Connected to the RDS instance from Amazon EC2.
 - Created a database and table using MySQL.
 - Inserted and retrieved sample records successfully.
+
+## Project 4 - AWS Lambda Cost Calculator
+
+- Developed a serverless AWS Lambda function using Python.
+- Processed JSON input to calculate the sum of two numbers.
+- Tested the function using AWS Lambda Test Events.
+- Successfully deployed and verified the output.
+- Demonstrated serverless computing using AWS Lambda.
+
+## Technologies Used
+
+- Amazon S3
+- Amazon EC2
+- Amazon RDS
+- AWS Lambda
+- Python
+- MySQL
+- Git & GitHub
